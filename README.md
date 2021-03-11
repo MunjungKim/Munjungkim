@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Munjung Kim from S.Korea. 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MunjungKim&count_private=true)
 <!--
 **MunjungKim/Munjungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
