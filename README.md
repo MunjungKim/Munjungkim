@@ -2,6 +2,8 @@
 
 I'm Munjung Kim from S.Korea. 
 
+https://munjungkim.github.io/about/
+
 
 <!--
 **MunjungKim/Munjungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
