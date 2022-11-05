@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Munjung Kim from S.Korea. 
+
 
 https://munjungkim.github.io/about/
 
