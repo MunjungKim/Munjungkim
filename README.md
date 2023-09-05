@@ -2,7 +2,7 @@
 
 
 
-https://munjungkim.github.io/about/
+https://munjungkim.github.io/
 
 
 <!--
